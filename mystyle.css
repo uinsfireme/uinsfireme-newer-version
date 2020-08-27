@@ -1,0 +1,22 @@
+#myUnorderedList    {
+    list-style-type: none;
+}
+
+#myUnorderedList li a,
+#about a     {
+    color: gray;
+}
+
+#myUnorderedList li a:hover,
+#about a:hover     {
+    color: palevioletred;
+}
+
+a#linked-text    {
+    text-decoration: none;
+    color: gray;
+}
+
+a#linked-text:hover     {
+    color: palevioletred;
+}
