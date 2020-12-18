@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br><br>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/db9f05d2-fa70-4292-b9a9-3e87161dd189/deploy-status)](https://app.netlify.com/sites/uinsfireme/deploys)
