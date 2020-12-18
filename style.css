@@ -1,0 +1,12 @@
+p {
+	font-family: sans-serif;
+	font-size: 2em;
+}
+		
+a {
+	color: normal;
+}
+
+a:hover {
+	color: babyblue;
+}
